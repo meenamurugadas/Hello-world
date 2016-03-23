@@ -3,7 +3,7 @@
 -- http://www.phpmyadmin.net
 -- 
 -- 
--- Database: `phpgang`
+-- Database: `tweetrends`
 -- 
 
 -- --------------------------------------------------------
@@ -25,4 +25,4 @@ CREATE TABLE `users` (
 -- Dumping data for table `users`
 -- 
 
-INSERT INTO `users` VALUES (1, 'PHP Gang solve your problems','PHP gang', 'a@aasdf.com', 'ef7b0f97cf7fa82954ed1c23dde5ae1d');
+INSERT INTO `users` VALUES (1, 'Tweetrends','Share your tweets', 'a@aasdf.com', 'ef7b0f97cf7fa82954ed1c23dde5ae1d');
